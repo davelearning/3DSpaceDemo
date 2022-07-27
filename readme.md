@@ -14,3 +14,19 @@
 * Detecting and responding to hits
 * Making enemies that wander around
 * Spawning new objects in the scene
+
+### Summary
+
+* A ray is an imaginary line projected into the scene.
+* Raycasting operations are useful for both shooting and sensing obstacles.
+* Making a character wander around involves basic AI.
+* New objects are spawned by instantiating prefabs.
+* Coroutines are used to spread out functions over time.
+
+## Chapter 4
+
+* Understanding art assets used in game development
+* Building prototype levels through whiteboxing
+* Using 2D images in Unity
+* Importing custom 3D models
+* Crafting particle effects
